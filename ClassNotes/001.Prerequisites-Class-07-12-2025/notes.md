@@ -14,9 +14,9 @@ This path is divided into **three progressive levels**:
 
 🎯 **Target Roles:**
 
-* DevOps Engineer
-* DevSecOps Engineer
-* GitOps Engineer
+* DevOps Engineer ⭐
+* DevSecOps Engineer ⭐
+* GitOps Engineer ⭐
 * FinOps Engineer
 * MLOps Engineer
 * LLMOps Engineer
